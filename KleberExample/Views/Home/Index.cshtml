@@ -16,7 +16,7 @@
 </head>
 <body>
     <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-        <a class="navbar-brand" href="#">Sistema do Klebão</a>
+        <a class="navbar-brand" href="#">C# Security Example</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -24,6 +24,9 @@
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
                     <a class="nav-link" href="#">Home</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="/Home/Privacy">Privacy</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="https://github.com/kbmbarreto">Meu GitHub</a>
@@ -40,17 +43,31 @@
 
     <main role="main" class="container">
         <div class="jumbotron">
-            <h1 class="display-4">Bem-vindo ao Sistema do Klebão!</h1>
+            <h1 class="display-4">Bem-vindo ao Exemplo de página segura em C#!</h1>
             <p class="lead">Este é apenas um exemplo de projeto ASP.NET Core com as opções de segurança devidamente configuradas.</p>
             <hr class="my-4">
             <p>Aproveite para verificar meu <a href="https://github.com/kbmbarreto">GitHub</a> para outros projetos interessantes.</p>
-            <p>Conheça meu perfil profissional:</p>
+            <p>As implementações de segurança aplicadas são as seguintes:</p>
             <ul>
-                <li>Pós graduando em Engenharia de Software na PUC</li>
-                <li>Co-founder, back-end Java, Android developer e DevOps na healthtech Pedicalc</li>
-                <li>Analista de Qualidade Pleno na Epharma PBM do Brasil S.A.</li>
-                <li>Consultor de Qualidade Sênior na TVF Software</li>
+                <li>Configura o Content Security policy;</li>
+                <li>Remove o header X-Powered-By que informa o nome e a versão do servidor;</li>
+                <li>Configura regras de HTTP Public Key Pinning;</li>
+                <li>Configura regras para HTTP Strict Transport Security;</li>
+                <li>Trata o header X-Download-Options para IE8+;</li>
+                <li>Desabilita client-side caching;</li>
+                <li>Previne ataques do tipo sniffing no Mime Type do cliente;</li>
+                <li>Previne ataques do tipo ClickJacking;</li>
+                <li>Protege contra ataques do tipo XSS (Cross-Site Scripting).</li>
             </ul>
+
+            <p>
+                Conforme você pode ver, são muitas as opções de segurança que podem ser configuradas em um projeto ASP.NET Core. O projeto será atualizado conforme novas opções forem sendo implementadas.
+            </p>
+
+            <p>
+                Em caso de dúvidas e sugestões, entre em contato: <a href="mailto:kleber.barreto@msn.com">kleber.barreto@msn.com</a>
+            </p>
+
         </div>
     </main>
 
