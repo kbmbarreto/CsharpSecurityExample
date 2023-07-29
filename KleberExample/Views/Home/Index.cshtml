@@ -1,0 +1,59 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"]</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <style>
+        body {
+            padding-top: 50px;
+            padding-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+        <a class="navbar-brand" href="#">Sistema do Klebão</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://github.com/kbmbarreto">Meu GitHub</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://www.linkedin.com/in/kleberbarreto/">Linkedin</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://medium.com/kleberbarreto/">Medium</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <main role="main" class="container">
+        <div class="jumbotron">
+            <h1 class="display-4">Bem-vindo ao Sistema do Klebão!</h1>
+            <p class="lead">Este é apenas um exemplo de projeto ASP.NET Core com as opções de segurança devidamente configuradas.</p>
+            <hr class="my-4">
+            <p>Aproveite para verificar meu <a href="https://github.com/kbmbarreto">GitHub</a> para outros projetos interessantes.</p>
+            <p>Conheça meu perfil profissional:</p>
+            <ul>
+                <li>Pós graduando em Engenharia de Software na PUC</li>
+                <li>Co-founder, back-end Java, Android developer e DevOps na healthtech Pedicalc</li>
+                <li>Analista de Qualidade Pleno na Epharma PBM do Brasil S.A.</li>
+                <li>Consultor de Qualidade Sênior na TVF Software</li>
+            </ul>
+        </div>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>

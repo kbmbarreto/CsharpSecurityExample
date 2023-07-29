@@ -1,0 +1,93 @@
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\bin\Debug\net6.0\appsettings.json
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\bin\Debug\net6.0\CsharpSecurityExample.staticwebassets.runtime.json
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\bin\Debug\net6.0\CsharpSecurityExample.exe
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\bin\Debug\net6.0\CsharpSecurityExample.deps.json
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\bin\Debug\net6.0\CsharpSecurityExample.runtimeconfig.json
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\bin\Debug\net6.0\CsharpSecurityExample.dll
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\bin\Debug\net6.0\CsharpSecurityExample.pdb
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.csproj.AssemblyReference.cache
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.AssemblyInfoInputs.cache
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.AssemblyInfo.cs
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.csproj.CoreCompileInputs.cache
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.RazorAssemblyInfo.cache
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.RazorAssemblyInfo.cs
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\obj\Debug\net6.0\staticwebassets\msbuild.CsharpSecurityExample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\obj\Debug\net6.0\staticwebassets\msbuild.build.CsharpSecurityExample.props
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CsharpSecurityExample.props
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CsharpSecurityExample.props
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\obj\Debug\net6.0\scopedcss\bundle\CsharpSecurityExample.styles.css
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\obj\Debug\net6.0\scopedcss\projectbundle\CsharpSecurityExample.bundle.scp.css
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.dll
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\obj\Debug\net6.0\refint\CsharpSecurityExample.dll
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.pdb
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.genruntimeconfig.cache
+C:\Users\cskmacedo\Downloads\New folder\KleberExample\KleberExample\obj\Debug\net6.0\ref\CsharpSecurityExample.dll
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\bin\Debug\net6.0\appsettings.json
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\bin\Debug\net6.0\CsharpSecurityExample.staticwebassets.runtime.json
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\bin\Debug\net6.0\CsharpSecurityExample.exe
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\bin\Debug\net6.0\CsharpSecurityExample.deps.json
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\bin\Debug\net6.0\CsharpSecurityExample.runtimeconfig.json
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\bin\Debug\net6.0\CsharpSecurityExample.dll
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\bin\Debug\net6.0\CsharpSecurityExample.pdb
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.csproj.AssemblyReference.cache
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.AssemblyInfoInputs.cache
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.AssemblyInfo.cs
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.csproj.CoreCompileInputs.cache
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.RazorAssemblyInfo.cache
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.RazorAssemblyInfo.cs
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\staticwebassets\msbuild.CsharpSecurityExample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\staticwebassets\msbuild.build.CsharpSecurityExample.props
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CsharpSecurityExample.props
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CsharpSecurityExample.props
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\scopedcss\bundle\CsharpSecurityExample.styles.css
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\scopedcss\projectbundle\CsharpSecurityExample.bundle.scp.css
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.dll
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\refint\CsharpSecurityExample.dll
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.pdb
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.genruntimeconfig.cache
+C:\Users\cskmacedo\Downloads\New folder\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\ref\CsharpSecurityExample.dll
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\bin\Debug\net6.0\appsettings.json
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\bin\Debug\net6.0\CsharpSecurityExample.staticwebassets.runtime.json
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\bin\Debug\net6.0\CsharpSecurityExample.exe
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\bin\Debug\net6.0\CsharpSecurityExample.deps.json
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\bin\Debug\net6.0\CsharpSecurityExample.runtimeconfig.json
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\bin\Debug\net6.0\CsharpSecurityExample.dll
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\bin\Debug\net6.0\CsharpSecurityExample.pdb
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.csproj.AssemblyReference.cache
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.AssemblyInfoInputs.cache
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.AssemblyInfo.cs
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.csproj.CoreCompileInputs.cache
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.RazorAssemblyInfo.cache
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.RazorAssemblyInfo.cs
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\staticwebassets\msbuild.CsharpSecurityExample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\staticwebassets\msbuild.build.CsharpSecurityExample.props
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CsharpSecurityExample.props
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CsharpSecurityExample.props
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\scopedcss\bundle\CsharpSecurityExample.styles.css
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\scopedcss\projectbundle\CsharpSecurityExample.bundle.scp.css
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.dll
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\refint\CsharpSecurityExample.dll
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.pdb
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\CsharpSecurityExample.genruntimeconfig.cache
+C:\Users\cskmacedo\Documents\repositories\public\backend\CsharpSecurityExample\KleberExample\obj\Debug\net6.0\ref\CsharpSecurityExample.dll
